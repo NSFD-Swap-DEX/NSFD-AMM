@@ -4,7 +4,7 @@ const config: MenuEntry[] = [
   {
     label: 'Home',
     icon: 'HomeIcon',
-    href: 'https://www.nsolarfarmdefi.com/'
+    href: 'https://pool.nsolarfarmdefi.com/'
   },
   {
     label: 'Trade',
@@ -21,16 +21,16 @@ const config: MenuEntry[] = [
       }
     ]
   },
-  // {
-  //   label: 'Farms',
-  //   icon: 'FarmIcon',
-  //   href: 'https://www.pastafinance.com/farms'
-  // },
-  // {
-  //   label: 'Pools',
-  //   icon: 'PoolIcon',
-  //   href: 'https://www.pastafinance.com/pools'
-  // },
+  {
+    label: 'Farms',
+    icon: 'FarmIcon',
+    href: 'https://pool.nsolarfarmdefi.com/farms'
+  },
+  {
+    label: 'Pools',
+    icon: 'PoolIcon',
+    href: 'https://pool.nsolarfarmdefi.com/pools'
+  },
   // {
   //   label: 'Lottery',
   //   icon: 'TicketIcon',
